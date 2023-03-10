@@ -14,7 +14,7 @@
             "architecture": "megaavr",
             "version": "0.9.0-beta.1",
             "category": "Contributed",
-            "url": "https://MICROSIDE-TECHNOLOGY.github.io/arduino-dev-boards/MegaNanoCoreX-0.9.0-beta.1.tar.gz",
+            "url": "https://MICROSIDE-TECHNOLOGY.github.io/arduino-dev-boards/NanoCoreX-0.9.0-beta.1.tar.gz",
             "archiveFileName": "NanoCoreX-0.9.0-beta.1.tar.gz",
             "checksum": "SHA256:4ca512747a560e48953230e6e63327168e31f34938815c4fa5a0be58dbaa1288",
             "size": "335278",
