@@ -12,12 +12,12 @@
           {
             "name": "Microside Dev Boards",
             "architecture": "megaavr",
-            "version": "0.9.0-beta.1",
+            "version": "0.9.0-beta.2",
             "category": "Contributed",
-            "url": "https://MICROSIDE-TECHNOLOGY.github.io/arduino-dev-boards/NanoCoreX-0.9.0-beta.1.tar.gz",
-            "archiveFileName": "NanoCoreX-0.9.0-beta.1.tar.gz",
-            "checksum": "SHA-256:4ca512747a560e48953230e6e63327168e31f34938815c4fa5a0be58dbaa1288",
-            "size": "335278",
+            "url": "https://MICROSIDE-TECHNOLOGY.github.io/arduino-dev-boards/NanoCoreX-0.9.0-beta.2.tar.gz",
+            "archiveFileName": "NanoCoreX-0.9.0-beta.2.tar.gz",
+            "checksum": "SHA-256:f42d7e2b76a7438f9e60388ce701492c2566b446aa83689abc3e620119eaadb5",
+            "size": "335198",
             "boards": [
               {
                 "name": "NanoX"
@@ -30,9 +30,9 @@
                 "version": "7.3.0-atmel3.6.1-arduino7"
               },
               {
-                "packager": "arduino",
+                "packager": "microside",
                 "name": "avrdude",
-                "version": "6.3.0-arduino17"
+                "version": "7.1-arduino.1"
               },
               {
                 "packager": "arduino",
